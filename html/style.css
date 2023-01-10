@@ -28,6 +28,14 @@ button {
   color: #FFF;
 }
 
+button:active {
+  float: right;
+  margin: 10px 0;
+  padding: 8px;
+  background-color: aqua;
+  color: #FFF;
+}
+
 .tweet {
   margin: 10px 0;
 }
